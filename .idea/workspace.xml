@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a3029e8-3a99-4120-87b2-2ebe44709375" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZEuXAw2LQKz1UJ0GEx3vPCKHY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.geometricSearch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpecialNumbers">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.geometricSearch.AVLTree" />
+      <module name="AdvancedAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.geometricSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KdTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.geometricSearch.KdTree" />
+      <module name="AdvancedAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.geometricSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.multiStateSearch.SpecialNumbers" />
+      <module name="AdvancedAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.multiStateSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Watersheds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.unionFind.Watersheds" />
+      <module name="AdvancedAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.unionFind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WatershedsMine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.unionFind.WatershedsMine" />
+      <module name="AdvancedAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.unionFind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AVLTree" />
+      <item itemvalue="Application.KdTree" />
+      <item itemvalue="Application.SpecialNumbers" />
+      <item itemvalue="Application.WatershedsMine" />
+      <item itemvalue="Application.Watersheds" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpecialNumbers" />
+        <item itemvalue="Application.AVLTree" />
+        <item itemvalue="Application.KdTree" />
+        <item itemvalue="Application.WatershedsMine" />
+        <item itemvalue="Application.Watersheds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3029e8-3a99-4120-87b2-2ebe44709375" name="Default Changelist" comment="" />
+      <created>1583141938850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583141938850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1036" y="264" width="245" height="574" key="#xdebugger.evaluate" timestamp="1583489737044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-884" y="-49" key="#xdebugger.evaluate/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236670779" />
+    <state x="1036" y="264" width="245" height="574" key="#xdebugger.evaluate/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583489737044" />
+    <state width="413" height="466" key="DebuggerActiveHint" timestamp="1583494897170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="413" height="466" key="DebuggerActiveHint/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583494897170" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584614150860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584614150860" />
+    <state width="1877" height="550" key="GridCell.Tab.0.bottom" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236924016" />
+    <state width="1877" height="550" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.0.bottom/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.0.center" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236924015" />
+    <state width="1877" height="550" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.0.center/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.0.left" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236924015" />
+    <state width="1877" height="550" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.0.left/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.0.right" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236924015" />
+    <state width="1877" height="550" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.0.right/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.1.bottom" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236708306" />
+    <state width="1877" height="550" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.1.bottom/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.1.center" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236708305" />
+    <state width="1877" height="550" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.1.center/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.1.left" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236708304" />
+    <state width="1877" height="550" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.1.left/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="1877" height="550" key="GridCell.Tab.1.right" timestamp="1583782480245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-313.1920.1040@-1920.-313.1920.1040" timestamp="1583236708305" />
+    <state width="1877" height="550" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583782480245" />
+    <state width="1877" height="550" key="GridCell.Tab.1.right/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583495186530" />
+    <state width="912" height="528" key="XDebugger.FullValuePopup" timestamp="1583235144233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="912" height="528" key="XDebugger.FullValuePopup/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583235144233" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583225135542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583225135542" />
+    <state x="601" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583241477532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583241477532" />
+    <state x="520" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583335182637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583335182637" />
+    <state x="690" y="275" width="540" height="499" key="extract.method.dialog" timestamp="1583228981434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" width="540" height="499" key="extract.method.dialog/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583228981434" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583337397769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.313.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583337397769" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/recurrentRelations/MaxCostSubsequence.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/solvingAlgorithmicProblems/PrefixChecker.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/unionFind/UnionFind.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/unionFind/MineUnionFind.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/geometricSearch/AVLTree.java</url>
+          <line>522</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/multiStateSearch/SpecialNumbers.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/multiStateSearch/SpecialNumbers.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/multiStateSearch/SpecialNumbers.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="uf.parent" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
